@@ -12,8 +12,8 @@ module Config
     # Add your settings here
     # set [:setting], [value]
     # 
-    set :author,      "Dreamr"                              # blog author
-    set :title,       "RubySlippers, the smartest blog engine in all of Oz!"  # site title
+    set :author,      "Richard McGain"                              # blog author
+    set :title,       "A blog by Richard"  # site title
     # set :root,      "index"                                   # page to load on /
     set :date,        lambda {|now| now.strftime("%Y/%m/%d") }    # date format for articles
     # set :markdown,  :smart                                    # use markdown + smart-mode
