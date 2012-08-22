@@ -13,7 +13,7 @@ module Config
     # set [:setting], [value]
     # 
     set :author,      "Richard McGain"                              # blog author
-    set :title,       "A blog by Richard"  # site title
+    set :title,       "Ruminations, Ramblings and Resipiscence"  # site title
     set :url,         "richardmcgain.com"
     set :prefix,      "blog"
     # set :root,      "index"                                   # page to load on /
