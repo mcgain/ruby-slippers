@@ -5,15 +5,21 @@ body {
   font-size: 20px;
   line-height: 30px;
   padding: 15px;
-  width: 820px;
+  width: 1000px;
 
 }
-header, footer, section, article {
+header, footer, article {
 	display: block;
 }
+
+section, aside {
+  display: inline-block;
+  vertical-align: top;
+}
+
 #content {
   margin: 0px auto;
-  width: 90%;
+  width: 690px;
 }
 #by {
 	font-style: italic;
@@ -113,3 +119,4 @@ body > footer {
   color: #000;
   background-color: #eee;
 }
+
