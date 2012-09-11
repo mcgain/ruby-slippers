@@ -2,7 +2,7 @@
 title: Shorter exception declarations in Ruby
 date: 10/09/2012
 
-<a href="http://steveklabnik.com/">Steve Labnik</a> recently wrote a <a href="http://blog.steveklabnik.com/posts/2012-09-09-random-ruby-tricks--class-new">post</a> on Class.new, especially as it relates to a terser syntax for declaring Exception classes.
+<a href="http://steveklabnik.com/">Steve Klabnik</a> recently wrote a <a href="http://blog.steveklabnik.com/posts/2012-09-09-random-ruby-tricks--class-new">post</a> on Class.new, especially as it relates to a terser syntax for declaring Exception classes.
 
 I use an even terser, albeit more magical syntax.
 
