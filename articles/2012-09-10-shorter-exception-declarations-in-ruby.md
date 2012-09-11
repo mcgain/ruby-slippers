@@ -17,3 +17,5 @@ Viola!
 If you wanted to go further, you could modify the code to take multiple arguments, loop through them to create the classes.
 
 
+
+note: blog under construction at the moment, please excuse the brokenness of most of it.
