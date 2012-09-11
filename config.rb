@@ -15,7 +15,7 @@ module Config
     set :author,      "Richard McGain"                              # blog author
     set :title,       "Ruminations, Ramblings and Resipiscence"  # site title
     set :url,         "richardmcgain.com"
-    set :prefix,      "blog"
+#    set :prefix,      "blog"
     # set :root,      "index"                                   # page to load on /
     set :date,        lambda {|now| now.strftime("%Y/%m/%d") }    # date format for articles
     # set :markdown,  :smart                                    # use markdown + smart-mode
